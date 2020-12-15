@@ -2,7 +2,7 @@ CORRECT = ['A', 'C', 'A', 'A', 'D', 'B', 'C', 'A', 'C', 'B', 'A', 'D', 'C', \
             'A', 'D', 'C', 'B', 'B', 'D', 'A']
 
 # Open the file containing the student's answers
-stud_ans_file = open('student answers.txt', 'r')
+stud_ans_file = open('answers.txt', 'r')
 
 
 # Fill a list with the student's answers
